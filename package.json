@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-tabs-red",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fork of vuepress-plugin-tabs with red tabs",
   "author": "kai9029",
   "license": "MIT",
