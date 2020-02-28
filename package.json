@@ -1,8 +1,8 @@
 {
-  "name": "vuepress-plugin-element-tabs",
-  "version": "0.2.8",
-  "description": "Vuepress plugin - Tabs Container for Vuepress",
-  "author": "superbiger",
+  "name": "vuepress-plugin-tabs-red",
+  "version": "1.0.0",
+  "description": "A fork of vuepress-plugin-tabs with red tabs",
+  "author": "kai9029",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev docs --temp .temp",
@@ -12,12 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/superbiger/vuepress-plugin-tabs.git"
+    "url": "git+https://github.com/Kai9026/vuepress-plugin-tabs.git"
   },
   "keywords": [
     "vuepress-plugin",
     "tabs",
-    "component"
+    "component",
+    "red"
   ],
   "bugs": {
     "url": "https://github.com/superbiger/vuepress-plugin-tabs/issues"
